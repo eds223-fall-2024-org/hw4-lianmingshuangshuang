@@ -1,0 +1,16 @@
+---
+title: "HW4"
+format: html
+editor: Mingshuang Lian
+---
+
+### **Process data**
+
+### **Find suitable locations**
+
+### **Determine the most suitable EEZ**
+
+```{r}
+#| echo: false
+2 * 2
+```
